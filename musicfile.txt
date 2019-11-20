@@ -1,0 +1,47 @@
+4
+Phương Ly's top hits
+Phương Ly
+images/phuongly.jpg
+1
+3
+Mặt trời của em
+songs/phuong_ly/mat_troi_cua_em.mp3
+Anh là ai
+songs/phuong_ly/anh_la_ai.mp3
+Test song
+songs/phuong_ly/test.wav
+Em là của anh
+Min
+images/min.jpg
+0
+3
+Yêu
+songs/min/yeu.mp3
+Tìm
+songs/min/tim.mp3
+Đừng yêu nữa em mệt rồi
+songs/min/dung_yeu_nua_em_met_roi.mp3
+24H
+Ly Ly
+images/24h.jpg
+1
+4
+Vô tình
+songs/lyly/vo_tinh.mp3
+Một đêm say
+songs/lyly/mot_dem_say.mp3
+24h
+songs/lyly/24h.mp3
+Anh nhà ở đâu thế
+songs/lyly/anh_nha_o_dau_the.mp3
+Cơn mưa ngang qua
+Sơn Tùng M-TP
+images/mtp.jpg
+3
+3
+Cơn mưa ngang qua 3
+songs/mtp/con_mua_ngang_qua_3.mp3
+Cơn mưa ngang qua 1
+songs/mtp/con_mua_ngang_qua_1.mp3
+Cơn mưa ngang qua 2
+songs/mtp/con_mua_ngang_qua_2.mp3
